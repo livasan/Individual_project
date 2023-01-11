@@ -1,1 +1,1 @@
-# Individual project in my university
+# Individual project for my university
